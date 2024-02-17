@@ -1,0 +1,50 @@
+
+
+Essa versao do jogo da forca foi criado por Gilson Oliveira dos Santos, em Outubro de 2020.
+O jogo foi construido totalmente em linguagem C (C ANSI).
+
+
+---------------------------------------------------------------------------------------------
+
+UM POUCO DE HISTORIA:
+
+Jogo muito antigo e de origem obscura. Acredita-se que foi criado na Inglaterra Victoriana.
+Segundo Tony Augarde, autor de O Guia de Oxford para jogos de palavra, o primeiro registro do jogo foi feito no livro Traditional Games publicado em 1894.
+Alice Bertha Gomme tambem o cita no seu livro "Jogos Tradicionais" em 1894 sob o nome de "Passaros, animais e peixes".
+Tambem aparece com outros nomes como "Forca" e "Enforcador".
+
+Naquele tempo as mortes na forca eram um espetaculo publico normal.
+O jogo, portanto, parece vir do seculo 19 quando os criminosos recebiam a pena mais pesada pelos seus crimes.
+Ser um enforcador nao era um emprego procurado, sendo pouco popular. Os enforcadores eram impedidos de entrar em certos locais publicos.
+
+O jogo teve uma versao eletronica nos equipamentos Speak & Spell da Texas Instruments em 1983, redesenhada em 1992.
+Ela incluia um sintetizador de voz para ensinar alunos infantis a pronunciar as palavras corretamente em diferentes idiomas.
+
+
+----------------------------------------------------------------------------------------------
+
+SOBRE AS REGRAS:
+
+O jogador tem que acertar a palavra proposta, tendo como dica o numero de letras e o tema ligado a palavra.
+A cada letra errada, desenha-se uma parte do corpo do enforcado. 
+O jogo termina ou com o acerto da palavra ou com o termino do preenchimento das partes corporeas do enforcado.
+
+Para iniciar o jogo se desenha uma base e um risco correspondente ao lugar de cada letra.
+Por exemplo, para a palavra "MERCADO", se escreve:
+
+M E R C A D O ------> _ _ _ _ _ _ _
+
+O jogador que tenta adivinhar a palavra deve ir dizendo as letras que podem existir na palavra. 
+Escreve-se cada letra acertada no lugar correspondente.
+
+M E R C A D O ------> M _ _ C A _ _
+
+Caso a letra nao exista nessa palavra, desenha-se uma parte do corpo (iniciando pela cabeca, tronco, membros...).
+O jogador pode escolher entre falar uma letra ou fazer uma tentativa perigosa de tentar adivinhar a palavra.
+Se o jogador fazer uma tentativa perigosa de tentar adivinhar a palavra e errar ele perde na hora.
+Ganha-se o jogo se a palavra for adivinhada. Caso o jogador nao descubra a palavra ele perde.
+
+O jogador que tentava adivinhar a palavra antes entao escolhe uma nova palavra e invertem-se.
+
+Nessa versao pode-se escolher entre jogar sozinho, escolhendo uma area de conhecimento de sua preferencia, ou,
+jogar em dupla.
